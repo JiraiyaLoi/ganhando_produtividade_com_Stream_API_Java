@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.function.BinaryOperator;
 
+//Stream API
+
 /**
  * Representa uma operação que combina dois argumentos do tipo T e retorna um resultado do mesmo tipo T.
  * É usada para realizar operações de redução em pares de elementos, como somar números ou combinar objetos.
